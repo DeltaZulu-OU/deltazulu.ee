@@ -12,7 +12,7 @@ description: DeltaZulu is launching soon.
         Coming soon.
       </h1>
       <p class="lead" style="margin-left:auto; margin-right:auto;">
-        Developing cybersecurity solutions for people
+        Coming soon...
       </p>
 
       <div class="hero-actions" style="justify-content:center; margin-bottom:0;">
@@ -24,11 +24,6 @@ description: DeltaZulu is launching soon.
           Follow on GitHub
         </a>
 
-        <a
-          class="button button-secondary"
-          href="mailto:hello@deltazulu.ee">
-          Contact us
-        </a>
       </div>
     </div>
   </div>
